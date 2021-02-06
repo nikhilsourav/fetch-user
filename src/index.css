@@ -6,6 +6,7 @@
 
 body {
   font-family: "Montserrat";
+  font-size: 14px;
   background-color: rgba(207, 207, 207, 0.4);
 }
 
@@ -44,12 +45,15 @@ h1 {
 
 p {
   margin-top: 10px;
+  font-size: 14px;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
-button {
-  padding: 5px 10px;
+.btn {
+  padding: 5px 15px;
+  font-weight: bold;
+  color: white;
   margin: 20px auto;
 }
 
@@ -63,9 +67,10 @@ img {
 }
 
 .search {
+  margin-top: 30px;
   display: block;
 }
 
 .clearBg {
-  margin-top: 5px;
+  margin-top: -5px;
 }
