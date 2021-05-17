@@ -1,6 +1,6 @@
 # Fetch User
 
-This project uses [random user](https://randomuser.me/) API to fetch a random user and display it in the web page.
+[This project](https://nikhilsourav.github.io/fetch-user/) uses [Random User API](https://randomuser.me/) to fetch a random user and display it in the web page.
 
 ## Demo:
 
